@@ -45,4 +45,5 @@ var labEvents = [
   { title: 'Risk IT MS Training / Dirk K.',    start: '2018-09-06', end: '2018-09-08',    resourceId: 'B-LONGTABLE'    },
   { title: 'COP Offsite Meeting / Armin B.',   start: '2018-10-10', end: '2018-10-12',    resourceId: 'C-MEETROOM'     },
   { title: 'ExCo Lunch / Konstanze O.',  start: '2018-12-06T10:00:00', end: '2018-12-06T15:00:00',     resourceId: 'C-MEETROOM' }
+  { title: 'MFP Config & Overview / Michal P.',  start: '2018-08-02T11:30:00', end: '2018-08-02T12:00:00',     resourceId: 'C-MEETROOM' }
 ]
